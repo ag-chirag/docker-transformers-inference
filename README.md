@@ -1,4 +1,5 @@
 # Docker Transformer Inference
+This repository contains the code for the blog post "Deploying Transformers in Production: Simpler Than You Think" on Hackernoon: https://hackernoon.com/deploying-transformers-in-production-simpler-than-you-think
 
 A containerized solution for hosting transformer models using Flask, Gunicorn, and Docker with AWS SageMaker deployment support. Build once, run anywhere!
 
